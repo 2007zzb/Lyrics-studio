@@ -527,6 +527,6 @@ ft.Row(controls=[ft.Text("标题"), ft.Container(expand=True), btn])
 
 | 微信 | 支付宝 |
 |------|--------|
-| ![微信](assets/wechat.png) | ![支付宝](assets/Alipay.png) |
+| ![微信](assets/wechat.png) | ![支付宝](assets/alipay.jpg) |
 
 项目由 **张小博** 开发维护。有任何问题或建议，欢迎通过 **QQ：2771165282** 联系。
