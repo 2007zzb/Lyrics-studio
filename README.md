@@ -528,7 +528,7 @@ ft.Row(controls=[ft.Text("标题"), ft.Container(expand=True), btn])
 <p align="center">
   <img src="assets/wechat.png" alt="微信收款码" width="220">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/alipay.png" alt="支付宝收款码" width="220">
+  <img src="assets/alipay.jpg" alt="支付宝收款码" width="220">
 </p>
 
 项目由 **张小博** 开发维护。有任何问题或建议，欢迎通过 **QQ：2771165282** 联系。
