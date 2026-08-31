@@ -13,6 +13,18 @@
 └──────────────────────────────┘
 ```
 
+## 支持这个项目
+
+如果这个工具帮到了你，欢迎请作者喝杯咖啡 ☕
+
+<p align="center">
+  <img src="assets/wechat.png" alt="微信收款码" width="220">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/alipay.jpg" alt="支付宝收款码" width="220">
+</p>
+
+项目由 **张小博** 开发维护。有任何问题或建议，欢迎通过 **QQ：2771165282** 联系。
+
 ---
 
 ## 一、Python 还是 C？建议选 Python
@@ -520,15 +532,3 @@ ft.Row(controls=[ft.Text("标题"), ft.Container(expand=True), btn])
 
 在软件里点右上角 ⓘ 或右滑顶部卡片，可以一键复制 QQ。
 有问题欢迎提 Issue，觉得好用给个 ⭐ 吧。
-
-## 支持这个项目
-
-如果这个工具帮到了你，欢迎请作者喝杯咖啡 ☕
-
-<p align="center">
-  <img src="assets/wechat.png" alt="微信收款码" width="220">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/alipay.jpg" alt="支付宝收款码" width="220">
-</p>
-
-项目由 **张小博** 开发维护。有任何问题或建议，欢迎通过 **QQ：2771165282** 联系。
